@@ -1,2 +1,5 @@
 # tarefa_design_1
-Exercícios realizados para a disciplina de Design Digital, na instituição Fatec de SJC para obtenção de nota!
+
+Nome: Igor da Silva Pereira
+
+RA: 1461392221024
