@@ -3,8 +3,8 @@
 }
 
 .container {
-    width: 100vw;
-    height: 100vh;
+    margin: auto 25% auto 25%;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,9 +17,19 @@
 }
 
 a {
-    color: white;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-decoration: none;
 }
 
 a:hover {
     color: rgb(0, 17, 255);
+}
+
+
+.menu{
+    height: 10vh;
+    display: flex;
+    background-color: rgb(37, 37, 39);
+    align-items: center;
 }
